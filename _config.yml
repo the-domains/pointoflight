@@ -1,6 +1,6 @@
 name: pointoflight
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.2625111541710794
 cta:
   domain: null
   bucket: null
@@ -23,3 +23,4 @@ purpose:
   - name: engagement
     item: null
     url: null
+typography_spectrum: 0.7088284560013562
